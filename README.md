@@ -31,7 +31,7 @@
 ---
 
 ## 📝 Blog
-- [Velog @seojin_lim](https://velog.io/@seojin_lim/series)
+- [[Velog @seojin_lim](https://velog.io/@seojin_lim/series)](https://velog.io/@seojin_lim/posts)
 
 ---
 
