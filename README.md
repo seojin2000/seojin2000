@@ -19,8 +19,8 @@
 - [**LLM 기반 비속어 감지 및 순화 서비스**](https://github.com/orgs/sk2-purgo/repositories)  
   대규모 언어 모델을 활용해 비속어를 탐지하고 순화하는 서비스
 
-- [**AI 챗봇 기반 여행 일정 추천 서비스**](https://github.com/seojin2000/ninagara_ai)
-    AI 챗봇을 통해 개인화된 여행 일정 추천 및 지도 연동 기능을 제공하는 서비스
+- [**AI 챗봇 기반 여행 일정 추천 서비스**](https://github.com/seojin2000/ninagara_ai)  
+  AI 챗봇을 통해 개인화된 여행 일정 추천 및 지도 연동 기능을 제공하는 서비스
 
 - [**MSA 기반 입주민 도움 서비스**](https://github.com/RookiesTeam6/easy_home)  
   마이크로서비스 아키텍처 기반 입주민 지원 플랫폼  
